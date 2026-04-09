@@ -1,1 +1,5 @@
 Nothin in here
+
+func something fun(a: string, b: string) -> int:
+	printf(a + b)
+	return 10
