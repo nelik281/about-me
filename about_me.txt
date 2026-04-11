@@ -3,3 +3,4 @@ Nothin in here
 func something fun(a: string, b: string) -> int:
 	printf(a + b)
 	return 10
+https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fget.wallhere.com%2Fphoto%2F3840x2400-px-lake-mountain-1044051.jpg&lr=10735&pos=32&rpt=simage&text=rfhnbyrf
